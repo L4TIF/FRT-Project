@@ -4,7 +4,7 @@ This README file provides a comprehensive overview of your pizza house website, 
 
 ## Project Description:
 
-This website offers a user-friendly platform for customers to order pizzas online with ease. Customers can explore a detailed menu, customize their orders with a variety of toppings, and complete their purchases through a secure online payment system. The website is built upon HTML, CSS, and potentially JavaScript to deliver a responsive and visually appealing design.
+This website offers a user-friendly platform for customers to order pizzas online with ease. Customers can explore a detailed menu, customize their orders with a variety of toppings, and complete their purchases through a secure online payment system. The website is built upon HTML, CSS, and potentially JavaScript to deliver a responsive and visually appealing design,created chatbot using Azure bot and hosted using Azure static web app . 
 
 ![Screenshot 2024-05-15 204218](https://github.com/L4TIF/FRT-Project/assets/139320453/0badd1f3-7986-4334-81a1-28089d87ed2f)
 ![Screenshot 2024-05-15 204154](https://github.com/L4TIF/FRT-Project/assets/139320453/1dbdeddd-1a74-4ca2-b19a-83877f27bd61)
@@ -20,7 +20,7 @@ User Interface: An intuitive and responsive design that adapts seamlessly to dif
 Future Enhancements: A section outlining planned features for future development, such as user accounts, order tracking, or personalized recommendations.
 
 ## Technologies Used:
-
+The IDE used for creating this project is **Visual Studio Code**.
 HTML: The foundation for structuring the website's content, providing a well-organized and meaningful layout.
 CSS: Controls the website's visual appeal, including layout, colors, fonts, images (if applicable), and overall style.
 JavaScript: Adds interactive functionalities, such as real-time cart updates, form validation, and potentially dynamic content manipulation.
