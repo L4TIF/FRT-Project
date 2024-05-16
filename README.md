@@ -1,4 +1,5 @@
 ## Future Ready Talent Internship Project: Pizza House Website
+**Link : https://red-moss-0e77e001e.5.azurestaticapps.net** <br>
 This README file provides a comprehensive overview of your pizza house website, created as part of the Future Ready Talent Internship program.
 ![Screenshot 2024-05-15 204118](https://github.com/L4TIF/FRT-Project/assets/139320453/5e199c7b-9719-45ab-803b-a7d192bc8555)
 
@@ -20,10 +21,10 @@ User Interface: An intuitive and responsive design that adapts seamlessly to dif
 Future Enhancements: A section outlining planned features for future development, such as user accounts, order tracking, or personalized recommendations.
 
 ## Technologies Used:
-The IDE used for creating this project is **Visual Studio Code**.
-HTML: The foundation for structuring the website's content, providing a well-organized and meaningful layout.
-CSS: Controls the website's visual appeal, including layout, colors, fonts, images (if applicable), and overall style.
-JavaScript: Adds interactive functionalities, such as real-time cart updates, form validation, and potentially dynamic content manipulation.
+The IDE used for creating this project is **Visual Studio Code**.<br>
+HTML: The foundation for structuring the website's content, providing a well-organized and meaningful layout.<br>
+CSS: Controls the website's visual appeal, including layout, colors, fonts, images (if applicable), and overall style.<br>
+JavaScript: Adds interactive functionalities, such as real-time cart updates, form validation, and potentially dynamic content manipulation.<br>
 
 ## For Hosting i used Azure static web app.
 ![Screenshot 2024-05-16 191453](https://github.com/L4TIF/FRT-Project/assets/139320453/7d6ec09f-df8a-4266-9e92-9b9f7b8119c5)
